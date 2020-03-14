@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aeyenomaew.myie.tk/sitemap.xml
